@@ -11,7 +11,6 @@ const CreatePoint = () => {
         <div id="id-create-point">
             <header>
                 <img src={logo} alt="Ecoleta"/>
-
                 <Link to="/">
                     Voltar para home
                 </Link>
